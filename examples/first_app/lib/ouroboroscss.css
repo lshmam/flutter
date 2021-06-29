@@ -1,0 +1,38 @@
+body{}
+
+#heartrate{
+    color: white;
+    position: absolute;
+}
+#spo2{
+    color: black;
+    position: absolute;
+}
+
+#bpm{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    padding-left: 400px;
+    padding-top: 310px;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+
+
+
+#spo21{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    padding-left: 1075px;
+    padding-top: 350px;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+html {    
+    background: url('greencircles.jpg') no-repeat center fixed;     
+    background-size: cover;
+    position: absolute;
+    
+}
